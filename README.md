@@ -1,0 +1,2 @@
+# Recognition text in picture
+
